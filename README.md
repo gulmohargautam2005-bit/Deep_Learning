@@ -176,3 +176,6 @@ DVC
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+
+# 8. CI/CD Deployment:
+    CI/CD pipeline configured and tracked via GitHub Actions.
