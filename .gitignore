@@ -220,4 +220,3 @@ __marimo__/
 # project artifacts and model binaries
 artifacts/
 *.zip
-*.h5
