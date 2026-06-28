@@ -5,6 +5,8 @@ from zipfile import ZipFile
 import urllib.request as request
 import mlflow
 import mlflow.keras
+from pathlib import Path
+
 from urllib.parse import urlparse
 from src.entity.config_entity import EvaluationConfig
 
